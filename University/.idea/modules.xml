@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComparingTwoNumber/ComparingTwoNumber.iml" filepath="$PROJECT_DIR$/ComparingTwoNumber/ComparingTwoNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FahrenheitToCelsius/FahrenheitToCelsius.iml" filepath="$PROJECT_DIR$/FahrenheitToCelsius/FahrenheitToCelsius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LargestOfThree/LargestOfThree.iml" filepath="$PROJECT_DIR$/LargestOfThree/LargestOfThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OddEven/OddEven.iml" filepath="$PROJECT_DIR$/OddEven/OddEven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternB/PatternB.iml" filepath="$PROJECT_DIR$/PatternB/PatternB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomNumbers/RandomNumbers.iml" filepath="$PROJECT_DIR$/RandomNumbers/RandomNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StarPattern/StarPattern.iml" filepath="$PROJECT_DIR$/StarPattern/StarPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentGradeMessage/StudentGradeMessage.iml" filepath="$PROJECT_DIR$/StudentGradeMessage/StudentGradeMessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/University.iml" filepath="$PROJECT_DIR$/.idea/University.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quiz/quiz.iml" filepath="$PROJECT_DIR$/quiz/quiz.iml" />
+    </modules>
+  </component>
+</project>
